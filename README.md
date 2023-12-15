@@ -9,11 +9,7 @@
 
 <br>
 
-<div>
-<p>&nbsp;<img " height= "180em" src="https://github-readme-stats.vercel.app/api?username=fernando-7&show_icons=true&locale=en" alt="fernando-7" /></p>
 
-<p><img  height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernando-7&show_icons=true&locale=en&layout=compact" alt="fernando-7" /></p>
-</div>
 
 <div align="center">
 <h3 align="center">Languages and Tools:</h3>
